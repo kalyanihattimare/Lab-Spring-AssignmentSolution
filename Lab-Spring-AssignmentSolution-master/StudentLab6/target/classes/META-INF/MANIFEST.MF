@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Purva
+Build-Jdk: 17.0.2
+Implementation-Title: library
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.gl.library
+Implementation-URL: https://spring.io/projects/spring-boot/library
+Created-By: Maven Integration for Eclipse
+
